@@ -1,1 +1,8 @@
+# docker build
 docker build -t avaliacao-infra .
+# docker run
+# docker run -dp 127.0.0.1:3000:3000 avaliacao-infra
+# docker tag
+docker tag avaliacao-infra williamjablonski/avaliacao-infra:latest
+# docker push
+docker push williamjablonski/avaliacao-infra:latest
