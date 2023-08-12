@@ -1,5 +1,5 @@
-# "hub.docker.com/williamjablonski/avaliacao-infra:latest"
-# "mcr.microsoft.com/azuredocs/aci-helloworld"
+// "hub.docker.com/williamjablonski/avaliacao-infra:latest"
+// "mcr.microsoft.com/azuredocs/aci-helloworld"
 
 {
   "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
