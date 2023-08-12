@@ -14,5 +14,6 @@ FROM node:14
  #setup ports  
  EXPOSE 8080  
  EXPOSE 5858  
+ EXPOSE 3000
    
  CMD ["npm", "start"] 
